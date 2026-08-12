@@ -13,3 +13,6 @@ and i am currenly staying in Delhi , I have done my b.tech from Madhy pradesh
 
 I am Sonu Tiwari
 and i am currenly staying in Bihar , I have my BCA from Munbai
+
+We is Ritik Tiwari
+and  i am currenly staying in Lucknow , I have done Mca form Uttar Pradesh
