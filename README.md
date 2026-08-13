@@ -40,3 +40,8 @@ and  i am currenly staying in Lucknow , I have done Mca form Uttar Pradesh
 
 Code Successfuly changes the code
 
+# gitHub All commands
+
+It is used for updating the actual dictionary with multiple key and 
+value pairs at a time
+
