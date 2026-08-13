@@ -17,5 +17,5 @@ and i am currenly staying in Bihar , I have my BCA from Munbai
 We is Ritik Tiwari
 and  i am currenly staying in Lucknow , I have done Mca form Uttar Pradesh
 
-My Father Name is Mantosh Tiwari
-MY Mother Name is Manju Devi
+Code Successfuly changes the code
+
